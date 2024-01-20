@@ -1,0 +1,14 @@
+{
+  "name": "lucky-draw",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node build.js"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.27.5"
+  },
+  "engines": {
+    "node": ">=14.8.0"
+  }
+}
